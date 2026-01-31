@@ -1,0 +1,176 @@
+[
+  {
+    "id": "Pos_Fun_0101",
+    "input": "oyaa kohedha?",
+    "expected": "ඔයා කොහෙද?"
+  },
+  {
+    "id": "Pos_Fun_0102",
+    "input": "mata badagini",
+    "expected": "මට බඩගිනි"
+  },
+  {
+    "id": "Pos_Fun_0103",
+    "input": "bohoma sthuthiyi",
+    "expected": "බොහොම ස්තුතියි"
+  },
+  {
+    "id": "Pos_Fun_0104",
+    "input": "Suba Upandhinayak!",
+    "expected": "සුබ උපන්දිනයක්!"
+  },
+  {
+    "id": "Pos_Fun_0105",
+    "input": "hari lassanayi",
+    "expected": "හරි ලස්සනයි"
+  },
+  {
+    "id": "Pos_Fun_0106",
+    "input": "karuNaakaralaa mata kiyanna",
+    "expected": "කරුණාකරලා මට කියන්න"
+  },
+  {
+    "id": "Pos_Fun_0107",
+    "input": "please mata help karanna",
+    "expected": "please මට help කරන්න"
+  },
+  {
+    "id": "Pos_Fun_0108",
+    "input": "oyaata puluvandha meeka karanna?",
+    "expected": "ඔයාට පුලුවන්ද මේක කරන්න?"
+  },
+  {
+    "id": "Pos_Fun_0109",
+    "input": "Mama paadam karanavaa",
+    "expected": "මම පාඩම් කරනවා"
+  },
+  {
+    "id": "Pos_Fun_0110",
+    "input": "Mama paadam karaa",
+    "expected": "මම පාඩම් කරා"
+  },
+
+  {
+    "id": "Pos_Fun_0111",
+    "input": "Mama heta paadam karanavaa",
+    "expected": "මම හෙට පාඩම් කරනවා"
+  },
+  {
+    "id": "Pos_Fun_0112",
+    "input": "mama adha gedhara giyaa, passe market ekata giyaa, dhaen mata tikak mahansi",
+    "expected": "මම අද ගෙදර ගියා, පස්සෙ market එකට ගියා, දැන් මට ටිකක් මහන්සි"
+  },
+  {
+    "id": "Pos_Fun_0113",
+    "input": "mee train eka late unoth api bus ekakata yamu. nathnam meeting eka miss venavaa",
+    "expected": "මේ train එක late උනොත් අපි bus එකකට යමු. නත්නම් meeting එක miss වෙනවා"
+  },
+  {
+    "id": "Pos_Fun_0114",
+    "input": "mama Rs.1250k gaththaa, 7.30ta gedhara enna hithan inne",
+    "expected": "මම Rs.1250ක් ගත්තා, 7.30ට ගෙදර එන්න හිතන් ඉන්නේ"
+  },
+  {
+    "id": "Pos_Fun_0115",
+    "input": "colombo trip eka next week, kandy valata yanna plan karamu",
+    "expected": "colombo trip එක next week, kandy වලට යන්න plan කරමු"
+  },
+  {
+    "id": "Pos_Fun_0116",
+    "input": "wifi eka on karala zoom link eka open karanna",
+    "expected": "wifi එක on කරල zoom link එක open කරන්න"
+  },
+  {
+    "id": "Pos_Fun_0117",
+    "input": "api Lamayi okkoma film ekak balamu",
+    "expected": "අපි ළමයි ඔක්කොම film එකක් බලමු"
+  },
+  {
+    "id": "Pos_Fun_0118",
+    "input": "mama ehema hithanne naee",
+    "expected": "මම එහෙම හිතන්නෙ නෑ"
+  },
+  {
+    "id": "Pos_Fun_0119",
+    "input": "magee ammaa enavaa",
+    "expected": "මගේ අම්මා එනවා"
+  },
+  {
+    "id": "Pos_Fun_0120",
+    "input": "NIC number eka dhaanna kiyala thiyenavaa",
+    "expected": "NIC number එක දාන්න කියල තියෙනවා"
+  },
+
+  {
+    "id": "Pos_Fun_0121",
+    "input": "mama adha office eka athule important meeting ekak thibbaa. eken passe api team eka samaga lunch giyaa. mama yanna kalin documents tika check karala email ekak yavanna one kiyala hithuva. haebaeyi network eka slow una nisaa tikak delay unaa. ehema unath mama plan eka hariyata finish karala gedhara enna puluvan unaa.",
+    "expected": "මම අද office එක අතුලෙ important meeting එකක් තිබ්බා. එකෙන් පස්සෙ අපි team එක සමග lunch ගියා. මම යන්න කලින් documents ටික check කරල email එකක් යවන්න one කියල හිතුව. හැබැයි network එක slow උන නිසා ටිකක් delay උනා. එහෙම උනත් මම plan එක හරියට finish කරල ගෙදර එන්න පුලුවන් උනා."
+  },
+  {
+    "id": "Pos_Fun_0122",
+    "input": "mee week eka athule assignments godak thiyenavaa. mama morning time eke study karanna hadhanavaa. night time eke rest karanna try karanavaa. ehema karadhdhi mata focus eka thiyaganna amaruyi. e nisa mama small breaks gannavaa. oyata puluvandha mata simple routine ekak suggest karanna?",
+    "expected": "මේ week එක අතුලෙ assignments ගොඩක් තියෙනවා. මම morning time eke study කරන්න හදනවා. night time eke rest කරන්න try කරනවා. එහෙම කරද්දි මට focus එක තියගන්න අමරුයි. එ නිස මම small breaks ගන්නවා. ඔයට පුලුවන්ද මට simple routine එකක් suggest කරන්න?"
+  },
+  {
+    "id": "Pos_Fun_0123",
+    "input": "api travel plan ekak hadhanavaa. colombo, kandy saha nuvara eliya yanna hithan inne. mama budget eka calculate karala balanna hadhanavaa. food, tickets saha accommodation valata vitharak thama expenses godak yanne. e nisa mama itinerary eka hariyata arrange karanna try karanava. oyage idea thiyenavanam kiyanna.",
+    "expected": "අපි travel plan එකක් හදනවා. colombo, kandy සහ නුවර එලිය යන්න හිතන් ඉන්නේ. මම budget එක calculate කරල බලන්න හදනවා. food, tickets සහ accommodation වලට විතරක් තම expenses ගොඩක් යන්නෙ. එ නිස මම itinerary එක හරියට arrange කරන්න try කරනව. ඔයගෙ idea තියෙනවනම් කියන්න."
+  },
+  {
+    "id": "Pos_Fun_0124",
+    "input": "mama aluth laptop ekak ganna balaporoththu venava. Ram, storage saha battery life vage dheval balanna one. price range eka athule best option eka hoyaganna amaruyi. mama reviews kiyavanava, haebaeyi samahara reviews confusing. oyata puluvandha criteria 3k wage define karala dhenna?",
+    "expected": "මම අලුත් laptop එකක් ගන්න බලපොරොත්තු වෙනව. Ram, storage සහ battery life වගෙ දෙවල් බලන්න one. price range එක අතුලෙ best option එක හොයගන්න අමරුයි. මම reviews කියවනව, හැබැයි සමහර reviews confusing. ඔයට පුලුවන්ද criteria 3ක් wage define කරල දෙන්න?"
+  },
+
+  {
+    "id": "Neg_Fun_0201",
+    "input": "suba udasanak",
+    "expected": "සුබ උදෑසනක්"
+  },
+  {
+    "id": "Neg_Fun_0202",
+    "input": "oyaa kohomadaaa",
+    "expected": "ඔයා කොහොමද?"
+  },
+  {
+    "id": "Neg_Fun_0203",
+    "input": "mama    gedara    yanawa",
+    "expected": "මම ගෙදර යනවා"
+  },
+  {
+    "id": "Neg_Fun_0204",
+    "input": "Ada campus enawada uba?",
+    "expected": "අද කැම්පස් එනවද උබ?"
+  },
+  {
+    "id": "Neg_Fun_0205",
+    "input": "Anee mata nidimathaiiii",
+    "expected": "අනේ මට නිදිමතයි"
+  },
+  {
+    "id": "Neg_Fun_0206",
+    "input": "Heta exam ekata ready da?",
+    "expected": "හෙට එක්සාම් එකට රෙඩී ද?"
+  },
+  {
+    "id": "Neg_Fun_0207",
+    "input": "Ai oya ohoma balanne?",
+    "expected": "ඇයි ඔය ඔහොම බලන්නෙ?"
+  },
+  {
+    "id": "Neg_Fun_0208",
+    "input": "Mata nam dan epa wela thiyenne",
+    "expected": "මට නම් දැන් එපා වෙලා තියෙනේ"
+  },
+  {
+    "id": "Neg_Fun_0209",
+    "input": "Mata ahenne na",
+    "expected": "මට අහෙන්න නැ"
+  },
+
+  {
+    "id": "Pos_UI_0301",
+    "input": "Clear button",
+    "expected": "Input and output fields become empty"
+  }
+]
